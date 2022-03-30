@@ -1,4 +1,4 @@
-# CheckStauts
+# CheckStatus
 Just by entering page's URL, check the HTTP response and status of the URL. Redirections can also easily be checked.
 
 
